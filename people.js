@@ -4,7 +4,7 @@ const { addHobbies } = require('./hobbies.js');
 
 function combinePersonHobbies() {
     const result = makePerson('damiano', 'maugeri')
-    result.hoobies = addHobbies('calcio', 'tennis', 'basket').hobbies
+    result.hoobbies = addHobbies('calcio', 'tennis', 'basket').hobbies
 
     return result
 
