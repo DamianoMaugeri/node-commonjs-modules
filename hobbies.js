@@ -4,3 +4,7 @@ function addHobbies(hobbyOne, hobbyTwo, hobbythree) {
 
 
 console.log(addHobbies('a', 'b', 'c'))
+
+
+
+MediaSourceHandle.export = { addHobbies }
