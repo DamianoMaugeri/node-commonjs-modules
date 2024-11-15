@@ -7,6 +7,5 @@ function makePerson(firstName, lastName) {
 
 }
 
-console.log(makePerson('damiano', 'maugeri'))
 
-module.export = { makePerson }
+module.exports = { makePerson }
